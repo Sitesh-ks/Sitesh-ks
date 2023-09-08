@@ -8,7 +8,7 @@ github[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitesh-ks&label=Profile%20views&color=0e75b6&style=flat" alt="sitesh-ks" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/sitesh-kumar-samal-4711a8249/" target="blank"><img src="https://img.shields.io/linkedin/follow/sitesk_ks?logo=twitter&style=for-the-badge" alt="sitesk_ks" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sitesh-kumar-samal-4711a8249/" target="blank"><img src="https://img.shields.io/linkedin/follow/sitesk_ks?logo=linkedin&style=for-the-badge" alt="sitesk_ks" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart for App Developement**
 
