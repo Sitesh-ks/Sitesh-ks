@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sksamal2512@gmail.com**
 
-- ⚡ Fun fact **I am into football too**
+- ⚡ Fun fact **Not only a coder but a footballer....😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
