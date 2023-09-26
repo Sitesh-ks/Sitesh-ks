@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sksamal2512@gmail.com**
 
-- ⚡ Fun fact **: Not only a coder but a footballer too....😉**
+- ⚡ Fun fact **:There are 1 0 types of people...... One who understands binary and other who don't .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
