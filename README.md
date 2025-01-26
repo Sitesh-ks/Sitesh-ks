@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sitesh-ks?tab=repositories](https://github.com/Sitesh-ks?tab=repositories)
 
-- 📫 How to reach me **sksamal2512@gmail.com**
+- 📫 How to reach me **(https://sk-samal.firebaseapp.com/)**
 
 - ⚡ Fun fact **:There are 1 0 types of people...... One who understands binary and other who don't .**
 
