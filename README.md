@@ -20,13 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Sitesh-ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sitesh.ks" height="30" width="40" /></a>
-<a href="https://twitter.com/Siteshkumarsam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sitesk_ks" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sitesh-kumar-samal-4711a8249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitesh kumar samal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/siteshk.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sitesh.ks" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sksamal2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sitesh_ks" height="30" width="40" /></a>
-<a href="https://leetcode.com/Sitesh-ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sitesh_ks" height="30" width="40" /></a>
-<a href="https://discord.com/users/1044659823888826450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Psycho Mantis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
